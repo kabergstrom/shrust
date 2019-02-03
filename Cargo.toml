@@ -12,3 +12,5 @@ keywords = ["shell", "console", "interactive", "terminal", "command"]
 
 [dependencies]
 prettytable-rs = "^0.8"
+futures = "0.1"
+tokio = "0.1"
